@@ -39,7 +39,7 @@
 //|-----------------------------------------------------------------------------------------|
 extern string s1="-->TGR Settings<--";
 extern string s1_1="Token - Telegram API Token";
-input string  TgrToken;5531706712:AAGSXKO-z_u-t9fAm_zexsXQ_EXAUyYBPnU
+input string  TgrToken;5531706712:AAGSXKO-z_u-t9fAm_zexsXQ_EXAUyYBPnU;
 extern bool   IndViewDebugNotify         = false;
 extern int    IndViewDebug               = 0;
 extern int    IndViewDebugNoStack        = 100;
