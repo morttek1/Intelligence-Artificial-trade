@@ -10,8 +10,8 @@
 #include <Telegram.mqh>
 
 //--- input parameters
-input string InpChannelName="@mychannelname";//Channel Name
-input string InpToken="insert telegram bot API here";//Token
+input string InpChannelName="@mychannelname";//TAT (the automatic trading)
+input string InpToken="insert telegram bot API here";//5531706712:AAGSXKO-z_u-t9fAm_zexsXQ_EXAUyYBPnU
 extern string mySigalname = "Enter my signal name";
 
 //--- global variables
